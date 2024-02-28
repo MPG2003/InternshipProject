@@ -5,7 +5,7 @@ cur = conn.cursor()
 while True:
 
     print("1. Enter new expense")
-    print("1. Enter expense history")
+    print("2. Enter expense history")
     print("select an option: ")
 
     choice = int(input())
